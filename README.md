@@ -5,4 +5,4 @@ My-first-QA-project
 
 # Test site: https://practicetestautomation.com/practice-test-login/
 
-First step: 
+
