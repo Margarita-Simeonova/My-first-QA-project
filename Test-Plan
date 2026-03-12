@@ -1,0 +1,121 @@
+Test Plan – Login Functionality
+
+1. Introduction
+
+This test plan describes the testing strategy and scope for verifying the login functionality of the Practice Test Automation website.
+
+The goal of this testing effort is to ensure that the login system works correctly, securely, and provides appropriate feedback to users.
+
+2. Application Under Test
+
+Website: https://practicetestautomation.com/practice-test-login/
+
+Module tested:
+
+Login functionality
+
+3. Objectives
+
+The objectives of this testing are:
+
+Verify successful login with valid credentials
+
+Verify login failure with invalid credentials
+
+Validate proper error messages
+
+Verify correct redirection after login
+
+Ensure input fields behave as expected
+
+4. Scope of Testing
+In Scope
+
+Username and password validation
+
+Login button functionality
+
+Error messages
+
+Successful login behavior
+
+Logout functionality
+
+Out of Scope
+
+Performance testing
+
+Security testing
+
+Database validation
+
+Cross-browser compatibility
+
+5. Test Strategy
+
+The login functionality will be tested using manual testing techniques.
+
+Testing will include:
+
+Positive testing (valid credentials)
+
+Negative testing (invalid credentials)
+
+Boundary testing (empty fields)
+
+UI behavior validation
+
+Test cases will be designed based on the login workflow and expected user behavior.
+
+6. Test Environment
+
+Testing will be performed using:
+
+Web browser: Google Chrome
+
+Operating System: Windows
+
+Internet connection
+
+7. Entry Criteria
+
+Testing will start when:
+
+The login page is accessible
+
+The application is stable and responsive
+
+8. Exit Criteria
+
+Testing will be completed when:
+
+All planned test cases are executed
+
+Any identified issues are documented
+
+9. Deliverables
+
+The following documents will be produced during the testing process:
+
+Test Plan
+
+Test Scenarios
+
+Test Cases
+
+Bug Reports
+
+Test Checklist
+
+10. Risks
+
+Potential risks include:
+
+Test environment instability
+
+Changes to the website during testing
+
+11. Author
+
+QA Portfolio Project
+Manual Testing Practice
