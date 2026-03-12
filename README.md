@@ -1,7 +1,7 @@
-# My-first-QA-project
-My-first-QA-project
+# login-testing-practice
+login-testing-practice
 
-### THIS IS MY FIRST MANUAL QA PROJECT
+## web-login-testing-project
 
 # Test site: https://practicetestautomation.com/practice-test-login/
 
